@@ -1,6 +1,6 @@
 [
     {
-        "ID": "123456",
+        "id": "1",
         "Cover": "https://i.ibb.co/tsMcDm8/blog-cover1.jpg",
         "Title": "The Secret Garden",
         "Author": "Penelope Rivers",
@@ -12,7 +12,7 @@
     ]
     },
     {
-        "ID": "789012",
+        "id": "2",
         "Cover": "https://i.ibb.co/v4sCXMK/top-view-workspace-with-notebook-succulent-plant.jpg",
         "Title": "Beyond the Horizon",
         "Author": "Alexander Stone",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "ID": "345678",
+        "id": "3",
         "Cover": "https://i.ibb.co/tsMcDm8/blog-cover1.jpg",
         "Title": "Echoes of Eternity",
         "Author": "Vanessa Moon",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "ID": "901234",
+        "id": "4",
         "Cover": "https://i.ibb.co/my07bgG/top-view-desk-with-office-supplies.jpg",
         "Title": "The Midnight Sonata",
         "Author": "Lucas Nightingale",
